@@ -1,11 +1,16 @@
 ## Oi! eu sou o Valter Bessa 👋
 
 
+<div align-"center">
+<img src="https://user-images.githubusercontent.com/97978789/165171439-7b98cc47-3575-4583-aec1-2f9717a67457.png" width="1000px">
+</div> <br>
 
+<div align-"center">
 - 🔭 Atualmente trabalho com front-end
 - 🤔 Estudando Javascript - React - Node JS
-
-<div>
+- 🔔 Criando projetos pessoais
+</div>
+<div> <br>
 <a href="https://github.com/DomBessa/DomBessa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dombessa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/.>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dombessa&layout=compact&langs_count=16&theme=dark"/.>
